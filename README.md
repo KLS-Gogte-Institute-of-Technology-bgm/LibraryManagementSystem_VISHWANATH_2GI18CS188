@@ -2,6 +2,8 @@
 
 ### Project ScreenShots Link : https://bit.ly/3hncrVA
 
+### Project Video Link : https://bit.ly/3hSgSqi
+
 ### Steps to run the project:
 
 1) Unzip the LibraryManagementSystem.zip file to desktop.
