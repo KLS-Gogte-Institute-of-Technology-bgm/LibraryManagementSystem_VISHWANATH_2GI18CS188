@@ -1,4 +1,4 @@
-# LibraryManagementSystem VISHWANATH SAMAJI 2GI18CS188
+# LibraryManagementSystem Vishwanath Samaji 2GI18CS188
 
 ### Project ScreenShots Link : https://bit.ly/3hncrVA
 
