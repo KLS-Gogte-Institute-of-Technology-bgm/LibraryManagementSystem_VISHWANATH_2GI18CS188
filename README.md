@@ -13,15 +13,15 @@ Steps to run the project:
    
  4) Now you are ready to go. All the resources like images are given inside the zip file.
  
- Thank you
+    Thank you
  
- Your Sincerely
+    Your Sincerely
  
- Vishwanath Samaji
+    Vishwanath Samaji
  
- ( 2GI18CS188 )
+    ( 2GI18CS188 )
  
- ( Computer Science and Engineering )
+    ( Computer Science and Engineering )
  
- ( KLS Gogte Institute of Technology )
+    ( KLS Gogte Institute of Technology )
  
