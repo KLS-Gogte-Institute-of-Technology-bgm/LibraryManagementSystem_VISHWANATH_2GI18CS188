@@ -1,15 +1,17 @@
 # LibraryManagementSystem VISHWANATH SAMAJI 2GI18CS188
 
-Steps to run the project:
+### Project ScreenShots Link : https://bit.ly/3hncrVA
+
+### Steps to run the project:
 
 1) Unzip the LibraryManagementSystem.zip file to desktop.
 2) Now double click on LibraryManagementSystem_ONLINE_DB.jar file
 3) Now the program will ask for login details.
    Login details are given as below:
    
-   Login ID : KLS_GIT
+   ### Login ID : KLS_GIT
    
-   Password : GIT123
+   ### Password : GIT123
    
  4) Now you are ready to go. All the resources like images are given inside the zip file.
  
@@ -17,15 +19,15 @@ Steps to run the project:
  
     Your Sincerely
  
-    Vishwanath Samaji
+    ### Vishwanath Samaji
  
-    ( 2GI18CS188 )
+    ### ( 2GI18CS188 )
  
-    ( Computer Science and Engineering )
+    ### ( Computer Science and Engineering )
  
-    ( KLS Gogte Institute of Technology )
+    ### ( KLS Gogte Institute of Technology )
     
     
-    LinkedIn :  https://in.linkedin.com/in/vishwanath-b375b21b7
+     ### LinkedIn :  https://in.linkedin.com/in/vishwanath-b375b21b7
     
  
