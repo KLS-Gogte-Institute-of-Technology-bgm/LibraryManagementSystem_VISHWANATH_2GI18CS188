@@ -4,6 +4,8 @@
 
 ### Project Video Link :       https://bit.ly/3hSgSqi
 
+### Project Zip File Download Link : https://bit.ly/3Dl8SXA
+
 ### Steps to run the project:
 
 1) At first go to Display settings of your computer and change the Display resolution to 1366 * 768.
