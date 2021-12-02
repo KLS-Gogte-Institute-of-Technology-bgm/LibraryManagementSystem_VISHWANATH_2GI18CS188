@@ -6,16 +6,17 @@
 
 ### Steps to run the project:
 
-1) Unzip the LibraryManagementSystem.zip file to desktop.
-2) Now double click on LibraryManagementSystem_ONLINE_DB.jar file
-3) Now the program will ask for login details.
+1) At first go to Display settings of your computer and change the Display resolution to 1366 * 768.
+2) Now Unzip the LibraryManagementSystem.zip file to desktop.
+3) Now double click on LibraryManagementSystem_ONLINE_DB.jar file
+4) Now the program will ask for login details.
    Login details are given as below:
    
    ### Login ID : KLS_GIT
    
    ### Password : GIT123
    
- 4) Now you are ready to go. All the resources like images are given inside the zip file.
+ 5) Now you are ready to go. All the resources like images are given inside the zip file.
  
     Thank you
  
